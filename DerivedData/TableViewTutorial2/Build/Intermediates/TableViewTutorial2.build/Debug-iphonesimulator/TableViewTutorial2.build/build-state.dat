@@ -1,0 +1,881 @@
+TTableViewTutorial2
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist TableViewTutorial2/TableViewTutorial2-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings TableViewTutorial2/en.lproj/InfoPlist.strings
+cCpResource TableViewTutorial2/Default-568h@2x.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+cCpResource TableViewTutorial2/Default.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+cCpResource TableViewTutorial2/Default@2x.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/MasterViewController.xib
+cCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/DetailViewController.xib
+cTouch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BC19FB0000000000000110
+t1371281915
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF1050000000000228FE0
+t1361899781
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF10700000000003DDFA0
+t1361899783
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF10600000000000015F7
+t1361899782
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF10B0000000000000E8D
+t1361899787
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF10D0000000000AB6230
+t1361899789
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000512CF11C0000000000001B73
+t1361899804
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.pth
+t1374300676
+s4678760
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+t1374300677
+s92720
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+t1374302786
+s75480
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+t1374303254
+s89708
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList
+c0000000051EA2A04000000000000034F
+t1374300676
+s847
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+t1374300677
+s3340
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+t1374303254
+s306
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+t1374303254
+s102
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+t1374300677
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+t1374300677
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+t1374300677
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist
+t1374300676
+s870
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/PkgInfo
+t1374300676
+s8
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+t1374303254
+s37744
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/DetailViewController.nib
+t1374300678
+s1831
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings
+t1374300677
+s42
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/MasterViewController.nib
+t1374300678
+s1140
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch
+c0000000051EA27850000000000000153
+t1374300037
+s339
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib
+c0000000051EA27850000000000002B0F
+t1374300037
+s11023
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/InfoPlist.strings
+c0000000051EA2785000000000000002D
+t1374300037
+s45
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib
+c0000000051EA27850000000000001930
+t1374300037
+s6448
+
+N/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+t1374303389
+s92800
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+t1374303389
+s75552
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+t1374303389
+s89780
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList
+c0000000051F4D573000000000000049B
+t1374999923
+s1179
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+t1374303389
+s3416
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+t1374303389
+s306
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+t1374303389
+s102
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+t1374300677
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+t1374300677
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+t1374300677
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist
+t1374300676
+s870
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/PkgInfo
+t1374300676
+s8
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+t1374303389
+s37944
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/DetailViewController.nib
+t1374300678
+s1831
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings
+t1374300677
+s42
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/MasterViewController.nib
+t1374300678
+s1140
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m
+c0000000051EA278500000000000009B6
+t1374300037
+s2486
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m
+c0000000051EA2CD3000000000000061B
+t1374301395
+s1563
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m
+c0000000051EA344A0000000000001330
+t1374303306
+s4912
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/TableViewTutorial2-Prefix.pch
+c0000000051EA27850000000000000153
+t1374300037
+s339
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/DetailViewController.xib
+c0000000051EA27850000000000002B0F
+t1374300037
+s11023
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/InfoPlist.strings
+c0000000051EA2785000000000000002D
+t1374300037
+s45
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/MasterViewController.xib
+c0000000051EA27850000000000001930
+t1374300037
+s6448
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m
+c0000000051EA27850000000000000165
+t1374300037
+s357
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+t1374300677
+s92720
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+t1374302786
+s75480
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+t1374303306
+s89708
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList
+c0000000051EA349C00000000000003B3
+t1374303388
+s947
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+t1374300677
+s3340
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+t1374303307
+s306
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+t1374303306
+s102
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+t1374300677
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+t1374300677
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+t1374300677
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist
+t1374300676
+s870
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/PkgInfo
+t1374300676
+s8
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+t1374303306
+s37744
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/DetailViewController.nib
+t1374300678
+s1831
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings
+t1374300677
+s42
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/MasterViewController.nib
+t1374300678
+s1140
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch
+c0000000051EA27850000000000000153
+t1374300037
+s339
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib
+c0000000051EA27850000000000002B0F
+t1374300037
+s11023
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/en.lproj/InfoPlist.strings
+c0000000051EA2785000000000000002D
+t1374300037
+s45
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib
+c0000000051EA27850000000000001930
+t1374300037
+s6448
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m
+c00000000000000000000000000000000
+t2
+s0
+
+NTableViewTutorial2/TableViewTutorial2-Info.plist
+c0000000051EA278A00000000000004E8
+t1374300042
+s1256
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies49bb59f30ca5b741^780d7af30ca5b741^---0#1#0#--18"Check dependencies36"A7D5D81C-4006-4B89-8E3E-1D8F3C6CA3C0-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395993477.003223
+e395993477.122404
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m7c0d0185619ab741^bd551f85619ab741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m0000000000000000^4468"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o36"FA8BBC9B-3223-485A-B7B3-6637779D28D1-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396692724.018720
+e396692724.208670
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection175"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m011605f40ca5b741^8c6a35f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@273"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/TableViewTutorial2/AppDelegate.m0000000000000000^5658"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap" -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" -include "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch" -MMD -MT dependencies -MF "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/AppDelegate.m" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o"36"D2951D3B-5F82-460C-BBB8-79E32126ABB4-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996189.149051
+e395996189.319178
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m6150261d6c9ab741^3db6511d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m0000000000000000^4818"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o TableViewTutorial2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/AppDelegate.o36"CA688555-8173-44C8-A63A-C227BF24BFFF-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395995585.322482
+e395995586.108833
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m636154c1699ab741^3cdb1bc2699ab741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m0000000000000000^4522"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.dia -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/DetailViewController.m -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o36"EEAF9BF5-C164-40A6-A355-564FF12AC34F-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396692724.018717
+e396692724.206892
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m731305f40ca5b741^51f834f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@282"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/TableViewTutorial2/DetailViewController.m0000000000000000^5712"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap" -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" -include "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch" -MMD -MT dependencies -MF "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.d" --serialize-diagnostics "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.dia" -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/DetailViewController.m" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o"36"6655C3D2-5AC6-4013-AAD9-6AC88F06A2CA-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996189.149670
+e395996189.298418
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m6e87261d6c9ab741^d17a4c1d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m0000000000000000^4872"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o TableViewTutorial2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/DetailViewController.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/DetailViewController.o36"EC930E29-8985-45A8-8E21-4CA97437CABB-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996106.822858
+e395996106.900099
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.me0d5d2ca6b9ab741^096ce6ca6b9ab741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m0000000000000000^4522"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.dia -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/MasterViewController.m -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o36"A3427C35-A7D9-40FB-9BC9-564D932FB83A-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396692724.018797
+e396692724.209311
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.md21805f40ca5b741^3a9435f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@282"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/TableViewTutorial2/MasterViewController.m0000000000000000^5712"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap" -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" -include "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch" -MMD -MT dependencies -MF "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.d" --serialize-diagnostics "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.dia" -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/MasterViewController.m" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o"36"29521112-04DE-4517-B0A0-4810CAB8351D-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996189.149061
+e395996189.312905
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.mee5e261d6c9ab741^b119501d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m0000000000000000^4872"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o TableViewTutorial2/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/MasterViewController.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/MasterViewController.o36"396905B6-A07A-4894-BFCF-B9A76053A6B5-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395993477.003212
+e395993477.045438
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m4c180185619ab741^1ba10b85619ab741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m0000000000000000^4426"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.dia -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/main.m -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o36"59165FB2-D58D-47F8-9FA4-C8F40B828BA5-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396692724.018739
+e396692724.191119
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.mbe1505f40ca5b741^ff0631f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@266"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/TableViewTutorial2/main.m0000000000000000^5616"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap" -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" -include "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch" -MMD -MT dependencies -MF "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.dia" -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/main.m" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o"36"3602216E-EE2F-45CF-9B17-03768018C0F3-
+
+CCompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996189.150031
+e395996189.230094
+r1
+xCompileC
+xDerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m1498261d6c9ab741^c11e3b1d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m0000000000000000^4776"CompileC DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o TableViewTutorial2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/main.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/main.o36"68782476-B366-421E-BFA3-282DA562BCE0-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib
+s395993477.243808
+e395993478.436115
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib04903e85619ab741^09a56f86619ab741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib0000000000000000^1044"CompileXIB TableViewTutorial2/en.lproj/DetailViewController.xib    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/DetailViewController.nib /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"4D7BE132-6904-4728-A991-23E4E0D49EA6-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib
+s395993477.243804
+e395993478.342948
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib1d923e85619ab741^cfd85786619ab741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib0000000000000000^1044"CompileXIB TableViewTutorial2/en.lproj/MasterViewController.xib    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/MasterViewController.nib /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"8408478A-73E9-4DB9-8345-CC83F1CBF411-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/DetailViewController.xib
+r0
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/en.lproj/MasterViewController.xib
+r0
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/en.lproj/DetailViewController.xib
+r0
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/en.lproj/MasterViewController.xib
+r0
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings TableViewTutorial2/en.lproj/InfoPlist.strings
+s395993477.239470
+e395993477.242592
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings
+xTableViewTutorial2/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy TableViewTutorial2/en.lproj/InfoPlist.stringsbb7e3d85619ab741^a41a3e85619ab741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/en.lproj/InfoPlist.strings0000000000000000^725"CopyStringsFile DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings TableViewTutorial2/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj -- TableViewTutorial2/en.lproj/InfoPlist.strings36"3E78DE17-43BF-478E-9D6F-08BBF0B2B709-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings TableViewTutorial2/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/en.lproj/InfoPlist.strings TableViewTutorial2/en.lproj/InfoPlist.strings
+r0
+
+CCpResource TableViewTutorial2/Default-568h@2x.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+s395993477.239658
+e395993477.243512
+r1
+xCpResource
+xTableViewTutorial2/Default-568h@2x.png
+xDerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.pngd07d3d85619ab741^7a563e85619ab741^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png000000000080d041^767"CpResource "TableViewTutorial2/Default-568h@2x.png" "DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default-568h@2x.png" /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app36"7DAF6680-6993-4E08-97B4-0406FA1296F9-
+
+CCpResource TableViewTutorial2/Default.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+s395993477.239461
+e395993477.245629
+r1
+xCpResource
+xTableViewTutorial2/Default.png
+xDerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.pngfa7b3d85619ab741^bde13e85619ab741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png000000000080d041^737"CpResource TableViewTutorial2/Default.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default.png    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default.png /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app36"8E6316FB-1952-49CF-B06C-B9F8163538E9-
+
+CCpResource TableViewTutorial2/Default@2x.png DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+s395993477.239463
+e395993477.244610
+r1
+xCpResource
+xTableViewTutorial2/Default@2x.png
+xDerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png397d3d85619ab741^069f3e85619ab741^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png000000000080d041^752"CpResource "TableViewTutorial2/Default@2x.png" "DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/Default@2x.png" /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app36"FEDE03BB-A8CF-49A2-96B2-580CCE316AD6-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+s395996106.975172
+e395996107.005735
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Generate /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM35b8f9ca6b9ab741^e17901cb6b9ab741^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM/0000000000000000^890"GenerateDSYMFile DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM36"C5A86EA4-23EA-4336-8F92-167B5F9FDB99-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+s396692724.418927
+e396692724.471519
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection239"Generate /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM7f676bf40ca5b741^07b478f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@337"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM/0000000000000000^1145"GenerateDSYMFile DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM"36"8BB60861-9914-4F15-B51C-1761280FD128-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+s395996189.412901
+e395996189.484989
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Generate /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM83be6c1d6c9ab741^63277c1d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@189"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM/0000000000000000^965"GenerateDSYMFile DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app.dSYM36"3928CC52-24C7-4EA2-8595-92BF1D3BA782-
+
+CLd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386
+s395996106.906543
+e395996106.968778
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Link /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial26b2de8ca6b9ab741^f338f8ca6b9ab741^---0#0#0#--1494"Ld DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial236"9418B1E9-00D6-475F-A079-3B1E7AFC74B5-
+
+CLd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386
+s396692724.216393
+e396692724.412456
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"Link /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial26e8637f40ca5b741^fb9669f40ca5b741^---0#0#0#--1919"Ld DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" -filelist "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2"36"7476DC14-1C00-408D-8583-0BEF28D9B928-
+
+CLd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386
+s395996189.326070
+e395996189.392493
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"Link /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2f695531d6c9ab741^297a641d6c9ab741^---0#0#0#--1619"Ld DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial2 normal i386    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/Objects-normal/i386/TableViewTutorial2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/TableViewTutorial236"E05607D2-EF91-49FB-853B-926336F9B5F3-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist TableViewTutorial2/TableViewTutorial2-Info.plist
+s395993476.639771
+e395993476.644846
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist
+xTableViewTutorial2/TableViewTutorial2-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Process TableViewTutorial2/TableViewTutorial2-Info.plist8eeba384619ab741^7313a584619ab741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Info.plist0000000000000000^886"ProcessInfoPlistFile DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist TableViewTutorial2/TableViewTutorial2-Info.plist    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TableViewTutorial2/TableViewTutorial2-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist36"9BADD871-6BCD-484D-934D-2D9B2AC8D5F1-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist TableViewTutorial2/TableViewTutorial2-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app/Info.plist TableViewTutorial2/TableViewTutorial2-Info.plist
+r0
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395993476.653396
+e395993476.996257
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.pth
+xTableViewTutorial2/TableViewTutorial2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TableViewTutorial2/TableViewTutorial2-Prefix.pch658ca784619ab741^e50aff84619ab741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch0000000000000000^4297"ProcessPCH DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-ggxoyrpjzgqvdmckiapanruidvsx/TableViewTutorial2-Prefix.pch.d36"8659FE71-7A84-4661-829C-2F6DA7ACA444-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Index/PrecompiledHeaders/TableViewTutorial2-Prefix-glvsxyqjhwygcfdhswiaqbizlpqc_ast/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396692723.496512
+e396692724.011594
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth
+xTableViewTutorial2/TableViewTutorial2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TableViewTutorial2/TableViewTutorial2-Prefix.pchc45f7ff30ca5b741^2bf702f40ca5b741^---0#0#0#-19%DVTDocumentLocation2@289"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(%E7%AC%AC9%E5%9B%9Emain%E3%81%8B%E3%82%89detail%E3%81%B8%E6%83%85%E5%A0%B1%E3%82%92%E3%83%86%E3%82%99%E3%83%AA%E3%82%B1%E3%82%99%E3%83%BC%E3%83%88)/TableViewTutorial2/TableViewTutorial2-Prefix.pch0000000000000000^5402"ProcessPCH DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap" -iquote "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386" "-I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources" "-F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.dia" -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/TableViewTutorial2/TableViewTutorial2-Prefix.pch" -o "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-becfxbpqycubeodgofaommsgewye/TableViewTutorial2-Prefix.pch.d"36"B63A7916-849E-4151-8D81-42843564CEA4-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Index/PrecompiledHeaders/TableViewTutorial2-Prefix-ddmiphdtflwfquaoierxblpixjqh_ast/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395996188.451582
+e395996189.142182
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.pth
+xTableViewTutorial2/TableViewTutorial2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TableViewTutorial2/TableViewTutorial2-Prefix.pch44c2731c6c9ab741^9964241d6c9ab741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch0000000000000000^4622"ProcessPCH DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/TableViewTutorial2-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/TableViewTutorial2.build/Debug-iphonesimulator/TableViewTutorial2.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/TableViewTutorial2/TableViewTutorial2-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Intermediates/PrecompiledHeaders/TableViewTutorial2-Prefix-bkmttjepzursffablxunxweovsxp/TableViewTutorial2-Prefix.pch.d36"03BA7E04-9B13-4435-9877-75F657348D73-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Index/PrecompiledHeaders/TableViewTutorial2-Prefix-goyfnbzrqdclwogkcydnfkzeznjb_ast/TableViewTutorial2-Prefix.pch.pth TableViewTutorial2/TableViewTutorial2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+s395996107.023145
+e395996107.031663
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Touch /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app65fe05cb6b9ab741^541b08cb6b9ab741^---0#0#0#--516"Touch DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app    cd /Users/newsuzukihiromasa/Desktop/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app36"6E3A8504-B75D-419A-8380-7CCEEC24C33A-
+
+CTouch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+s396692724.490148
+e396692724.499314
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"Touch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.appc9927df40ca5b741^0bd37ff40ca5b741^---0#0#0#--686"Touch DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app    cd "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2(第9回mainからdetailへ情報をデリゲート)/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app"36"F3AEA3DC-2805-4366-AA0A-C69FF620E8ED-
+
+CTouch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+s395996189.502520
+e395996189.512865
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Touch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.appecc1801d6c9ab741^304b831d6c9ab741^---0#0#0#--566"Touch DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/TableViewTutorial2/DerivedData/TableViewTutorial2/Build/Products/Debug-iphonesimulator/TableViewTutorial2.app36"55664631-2C8F-4D48-BCC9-387682F49BA3-
+
